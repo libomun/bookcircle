@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\BookCircle\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_book_c.png",
+        "source": "D:\\BookCircle\\app\\src\\main\\res\\mipmap-xhdpi\\ic_book_c.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BookCircle\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BookCircle\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\BookCircle\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\BookCircle\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BookCircle\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\BookCircle\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

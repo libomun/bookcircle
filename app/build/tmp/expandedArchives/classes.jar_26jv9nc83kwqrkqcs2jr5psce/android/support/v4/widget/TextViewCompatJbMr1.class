@@ -1,0 +1,54 @@
+ItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BookCircle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BookCircle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BookCircle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BookCircle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="android.project.structure.last.selected" value="NewIM" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="device.picker.selection" value="W8RDU15710004635" />
+    <property name="SearchEverywhereHistoryKey" value="SendTextH&#9;FILE&#9;file://C:/Users/Administrator/Desktop/BookCircle/app/src/main/java/cn/bmob/imdemo/adapter/SendTextHolder.java" />
+    <property name="last_opened_file_path" value="D:/QDUFriends/qdufriend" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BookCircle\app\src\main\res\drawable-xhdpi" />
+      <recent name="D:\BookCircle\app\src\main\res\mipmap-xhdpi" />
+      <recent name="C:\Users\Administrator\Desktop\BookCircle\app\src\main\res\drawable" />
+      <recent name="C:\Users\Administrator\Desktop\BookCircle\app\src\main\res\layout" />
+      <recent name="C:\Users\Administrator\Desktop\BookCircle\app\src\main\java\cn\bmob" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.thanks_code.bookcircle.util" />
+     

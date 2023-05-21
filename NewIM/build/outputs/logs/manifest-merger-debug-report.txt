@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:3:11-35
+		INJECTED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml
+		INJECTED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml
+		INJECTED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml
+		INJECTED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:5:5-7:40
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\zxy\.android\build-cache\70f46de6245fd8767321ba7eea7a351e7e79ea4c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:22.2.0] C:\Users\zxy\.android\build-cache\1aaab4c9f2e632117149486e803a082cfafa909d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\zxy\.android\build-cache\8f0bb30501dc50517249977defe7d1b711a2f65e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.orhanobut:logger:1.4] C:\Users\zxy\.android\build-cache\7010fcd449cdc226f9691b3df1ad229c24b7efac\output\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.bmob.android:bmob-im:2.0.9] C:\Users\zxy\.android\build-cache\ceb69858ed8461d1e88d546c6149d7fba977e14d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.bmob.android:bmob-sdk:3.5.6] C:\Users\zxy\.android\build-cache\c0f48fb1d72bdef88242810276e1a0026a704048\output\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:7:9-38
+		INJECTED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml
+		INJECTED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:6:9-34
+		INJECTED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml
+		INJECTED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:20:22-77
+uses-permission#android.permission.CAMERA
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:22:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:24:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:26:22-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:28:22-73
+application
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:30:5-84:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\zxy\.android\build-cache\70f46de6245fd8767321ba7eea7a351e7e79ea4c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\zxy\.android\build-cache\8f0bb30501dc50517249977defe7d1b711a2f65e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.orhanobut:logger:1.4] C:\Users\zxy\.android\build-cache\7010fcd449cdc226f9691b3df1ad229c24b7efac\output\AndroidManifest.xml:11:5-47
+MERGED from [cn.bmob.android:bmob-im:2.0.9] C:\Users\zxy\.android\build-cache\ceb69858ed8461d1e88d546c6149d7fba977e14d\output\AndroidManifest.xml:11:5-15:19
+MERGED from [cn.bmob.android:bmob-sdk:3.5.6] C:\Users\zxy\.android\build-cache\c0f48fb1d72bdef88242810276e1a0026a704048\output\AndroidManifest.xml:11:5-14:19
+	android:label
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:34:9-41
+	android:supportsRtl
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:35:9-35
+	android:allowBackup
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:32:9-35
+	android:icon
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:33:9-43
+	android:theme
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:36:9-40
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:31:9-42
+activity#cn.bmob.imdemo.ui.SplashActivity
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:37:9-46:20
+	android:label
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:39:13-45
+	android:theme
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:38:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:44:27-74
+activity#cn.bmob.imdemo.ui.LoginActivity
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:47:9-53
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:47:19-51
+activity#cn.bmob.imdemo.ui.MainActivity
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:48:9-52
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:48:19-50
+activity#cn.bmob.imdemo.ui.RegisterActivity
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:49:9-56
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:49:19-54
+activity#cn.bmob.imdemo.ui.SearchUserActivity
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:50:9-58
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:50:19-56
+activity#cn.bmob.imdemo.ui.UserInfoActivity
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:51:9-56
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:51:19-54
+activity#cn.bmob.imdemo.ui.NewFriendActivity
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:52:9-57
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:52:19-55
+activity#cn.bmob.imdemo.ui.ChatActivity
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:54:9-57:75
+	android:screenOrientation
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:56:13-49
+	android:windowSoftInputMode
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:57:13-73
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:55:13-44
+receiver#cn.bmob.newim.core.ConnectChangeReceiver
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:60:9-67:20
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:60:19-74
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+cn.bmob.action.RECONNECT
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:61:13-66:29
+action#cn.bmob.action.RECONNECT
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:62:17-66
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:62:25-64
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:63:17-78
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:63:25-76
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:64:17-78
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:64:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:65:17-76
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:65:25-74
+service#cn.bmob.newim.core.service.BmobIMService
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:69:9-71:42
+	android:process
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:71:13-40
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:70:13-68
+service#cn.bmob.newim.core.service.NotifyService
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:72:9-74:42
+	android:process
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:74:13-40
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:73:13-68
+service#cn.bmob.newim.core.service.ReConnectService
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:75:9-78
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:75:18-76
+service#cn.bmob.newim.core.service.HeartBeatService
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:76:9-78
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:76:18-76
+meta-data#Bmob_APP_KEY
+ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:80:9-82:63
+	android:value
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:82:13-61
+	android:name
+		ADDED from D:\BookCircle\NewIM\src\main\AndroidManifest.xml:81:13-40

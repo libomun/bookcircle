@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\fd62a6341872e2dca5e702ad5be5e35fec2e0d98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_532933372b4e5f455421076aa2d584561394636b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\5f48d68a828f4dc70b1226e95a64570b1eca09f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_e6dd4596990073b46425c110ac34681053304f0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\7010fcd449cdc226f9691b3df1ad229c24b7efac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="109f0ec452925b46b500e8d28ee2cd2d1a0145a9">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_9f146c1090f0d572ff78bf3f2a36e96f94fac023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.gradle\caches\modules-2\files-2.1\com.github.promeg\tinypinyin\1.0.0\a48301534bbc8eea481f61fa8fbdee80eca49d15\tinypinyin-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a48301534bbc8eea481f61fa8fbdee80eca49d15">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\tinypinyin-1.0.0_06e6acf682b50f3e302052def18ee3ead7c2c837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\65340a09ea86c7fd8f4bd9d9f4ec317dc92a04fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_4018eb28c0d44d1891c173731bfdd27cde7b79b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\f3b26f241df924f2f829c916d0a5fd9a6444e861\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_22e9f8d5419bd50d4f5f05bbdd068f8219537dab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\35bc069822437ec72e8fadf02a8922808f6448d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_42eeb552254489a99ed4795baf84a437c9b68853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\0249a11d1617e6ea3f5522755b424892b1c06bf2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_12f7332c775d29819740817c67eb7ab4bb9dc483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_cbc81a9930f5b80b56e06971b764e9c8737d791c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\2bbaf07763ac0c578f1317b452cc8a13188413e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_288355820f7dd04647c43e62bd4fa5e1fb5cc85e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BookCircle\multi-image-selector\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f80b490821739ce294ccaa6f0b203612966248f3">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_9871cf41fdfff8b6fc360f9126e90019ec88c7f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\ccc9c05466d6815450c874834b93099083f49e18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_8f8a2341c5752859f5a51ed20baa7d1538388a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\c0f48fb1d72bdef88242810276e1a0026a704048\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4e5731833bb233b850b7403f59e83bc086e1dea4">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_76e0018afb4b0017bda7e4a40830080429ef838d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\ceb69858ed8461d1e88d546c6149d7fba977e14d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ff50f38f68d287129ad0afa8acfb07735b02c685">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_887054cec707c988f538ee6a966aa154e6b22675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\52f323a5431332b11d3f66d9745667ce89cc1887\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_c1cc1feb85f46ab35e7b6039a7f73629be4b0541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_bb49b2d66e5baf873922b1039e7895a4796d71ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3ceb0078f1dabbbe72a1d78447f69b94e3d19555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\b29c578ae32c7d8b7bf723e2689420cc829972df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_b75243a3d138b88052a5e4c889e7750135d3ddf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\c0f48fb1d72bdef88242810276e1a0026a704048\output\jars\libs\BmobSDK_3.5.6_20170705.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0363e82e75b03f2784bd21add516fd8c1fa03bc">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.6_20170705_24597fe46ecd7067b6b1892ececb7d2ea8defa5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\eaaecca1072e0e6d11d1cc8c7c25ddc921d88506\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_efd14ef05c35605799057be0dd93c7516c72ebc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\5556539f0c95c00a20262880e55964b4371bce11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56b24cbd303368a3dc7a0cf1efbeb4f59b9ad742">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_5c32a7819bc78d27c99904436fc7aaff1983527b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\ceb69858ed8461d1e88d546c6149d7fba977e14d\output\jars\libs\BmobNewIM_2.0.9_20170731.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0b5a1d5467bc2aef6db247d5d068608a7370b49a">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\BmobNewIM_2.0.9_20170731_b6f823f4f929268ec2490bd8744e4ba194425ccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BookCircle\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_69497e0db4e27482d2f2370825d75378ced52aa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\d3477648f4306c32e014dbf4a58da685c50f8063\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_a3178b8fec9afbd6eed18029d21df91b16c969c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\f5b99c479ffaaf86deadcc52bc66dbf9c40617b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_8d5e70513da15f40c836dbc7d9e2f7e4d671f177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\c0f48fb1d72bdef88242810276e1a0026a704048\output\jars\libs\okio-1.12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c65ee0a604ff98ecaed12b7dccad20fd959026a3">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\okio-1.12.0_8f902fa07adda44ff10228121402ae80646f27c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_4baa83ce26c96dad40d71677cbb9f524378a9880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\ceb69858ed8461d1e88d546c6149d7fba977e14d\output\jars\libs\androidasync-2.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e467ee6149cd47eff052f22b1db011048726adc9">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\androidasync-2.1.6_3f5a16047c941c96dc501bc078f315e79391bb64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\c0f48fb1d72bdef88242810276e1a0026a704048\output\jars\libs\rxandroid-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84127ad71f76445b8215afceb38e8b05f58eafa6">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\rxandroid-1.2.0_1f767302853432856d416e89a37cc49822bda50f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_c5eef00e1afbcebf43433f1ebb3bc0f5ac96da8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\c0f48fb1d72bdef88242810276e1a0026a704048\output\jars\libs\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79f0c1e382e8b62e91064ef6b71130dda83f338e">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_19452e92103e4b807c8646e2d947bfc77804e571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\47cd3d48daa755107c5c26df0c7412183f357fd7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_b302a1207db79fb9c903158c6ebcb9eb0749e083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\glide-3.5.2_303eb9fe495c581fd328d5496d2c62f1852725cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zxy\.android\build-cache\7008d63178300abc8893c97d3513de177923f1a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\BookCircle\app\build\intermediates\pre-dexed\debug\classes_a2f3945ce2f85356bb5246ad47bab10aa9088b76.jar" />
+    </item>
+
+</items>

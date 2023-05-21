@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\BookCircle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_left.png",
+        "source": "D:\\BookCircle\\app\\src\\main\\res\\drawable-xhdpi\\ic_left.png"
+    },
+    {
+        "merged": "D:\\BookCircle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_right_messages.9.png",
+        "source": "D:\\BookCircle\\app\\src\\main\\res\\drawable-xhdpi\\ic_right_messages.9.png"
+    },
+    {
+        "merged": "D:\\BookCircle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_new_chat_left.9.png",
+        "source": "D:\\BookCircle\\app\\src\\main\\res\\drawable-xhdpi\\ic_new_chat_left.9.png"
+    },
+    {
+        "merged": "D:\\BookCircle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_new_chat_right.9.png",
+        "source": "D:\\BookCircle\\app\\src\\main\\res\\drawable-xhdpi\\ic_new_chat_right.9.png"
+    },
+    {
+        "merged": "D:\\BookCircle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_new_message.png",
+        "source": "D:\\BookCircle\\app\\src\\main\\res\\drawable-xhdpi\\ic_new_message.png"
+    },
+    {
+        "merged": "D:\\BookCircle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_left_message.9.png",
+        "source": "D:\\BookCircle\\app\\src\\main\\res\\drawable-xhdpi\\ic_left_message.9.png"
+    }
+]

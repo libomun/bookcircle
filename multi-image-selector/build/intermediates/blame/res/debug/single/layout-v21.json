@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

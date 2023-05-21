@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

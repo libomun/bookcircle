@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\mis_folder_text_color.xml",
+        "source": "D:\\BookCircle\\multi-image-selector\\src\\main\\res\\color\\mis_folder_text_color.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\mis_default_text_color.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\src\\main\\res\\color\\mis_default_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\mis_default_text_color.xml",
+        "source": "D:\\BookCircle\\multi-image-selector\\src\\main\\res\\color\\mis_default_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\mis_folder_text_color.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\src\\main\\res\\color\\mis_folder_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80032b14a56c6c491abb6cbbb5e3e3d8fd9aeb41\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\BookCircle\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\zxy\\.android\\build-cache\\76ae46db694f05184d62f7086e70b0929e0acc88\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    }
+]

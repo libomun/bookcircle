@@ -1,0 +1,9 @@
+_DIR$/app/src/main/res/layout/list_footer_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/top/thanks_code/bookcircle/util/LoadListView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_search_bc.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_upload_bc.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/top/thanks_code/bookcircle/bean/SellBook.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/top/thanks_code/bookcircle/ui/UploadActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/top/thanks_code/bookcircle/adapter/LVAdapter.java" />
+   
